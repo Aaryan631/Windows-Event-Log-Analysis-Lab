@@ -6,7 +6,7 @@
 [![SIEM](https://img.shields.io/badge/SIEM-Splunk%20Enterprise%209.x-FF6B35?style=flat-square)](https://www.splunk.com/)
 [![Target](https://img.shields.io/badge/Target-Windows%2011%20Pro-0078D6?style=flat-square&logo=windows&logoColor=white)]()
 [![Framework](https://img.shields.io/badge/Framework-MITRE%20ATT%26CK%20v14-E3001B?style=flat-square)](https://attack.mitre.org/)
-[![Status](https://img.shields.io/badge/Status-Complete-2ea44f?style=flat-square)]()
+[![Status](https://img.shields.io/badge/Status-Processing-2ea44f?style=flat-square)]()
 
 > **Part of a two-module SOC home lab.** See [Module A — Web Attack Simulation](../module-a/README.md) for the companion project.
 
