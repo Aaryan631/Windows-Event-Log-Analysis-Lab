@@ -3,7 +3,7 @@
 > Configure Windows 11 with verbose audit policy, simulate brute force, lateral movement via PsExec, and LOLBin/encoded PowerShell attacks from Kali Linux. Forward Windows Security Event Logs to Splunk and detect adversary behavior using Event IDs 4624, 4625, and 4688.
 
 [![Attacker](https://img.shields.io/badge/Attacker-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)](https://www.kali.org/)
-[![SIEM](https://img.shields.io/badge/SIEM-Splunk%20Enterprise%209.x-FF6B35?style=flat-square)](https://www.splunk.com/)
+[![SIEM](https://img.shields.io/badge/SIEM-Splunk%20Enterprise%2010.2.1-FF6B35?style=flat-square)](https://www.splunk.com/)
 [![Target](https://img.shields.io/badge/Target-Windows%2011%20Pro-0078D6?style=flat-square&logo=windows&logoColor=white)]()
 [![Framework](https://img.shields.io/badge/Framework-MITRE%20ATT%26CK%20v14-E3001B?style=flat-square)](https://attack.mitre.org/)
 [![Status](https://img.shields.io/badge/Status-Processing-2ea44f?style=flat-square)]()
